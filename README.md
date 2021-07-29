@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arungunasekar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack developemnt
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web developers
 - 📫 How to reach me https://www.linkedin.com/in/arun-g-455684200/
 
